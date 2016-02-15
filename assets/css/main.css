@@ -419,6 +419,10 @@
 	.\-1u {
 		margin-left: 8.33333%;
 	}
+#InguryTable{
+<table class="table" width="100%"> </table>
+}
+
 
 	@media screen and (min-width: 737px) {
 
