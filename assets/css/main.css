@@ -1576,7 +1576,7 @@
 		/* Banner */
 
 			#banner-wrapper {
-				background: #c8d2bc url(banner wrapper.jpg);
+				background: #c8d2bc url(image/banner wrapper.jpg);
 				display: none;
 			}
 
@@ -1584,7 +1584,7 @@
 				position: relative;
 				width: 100%;
 				height: 240px;
-				background: #fff url(Banner.jpg) no-repeat;
+				background: #fff url(image/Banner.jpg) no-repeat;
 				background-size: 100% 100%;
 				position: relative;
 			}
