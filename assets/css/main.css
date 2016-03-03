@@ -1265,7 +1265,7 @@
 
 			#header-wrapper {
 				background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
-				background-image: -webkit-linear-gradient(top, #000000 , #FFFFFF);
+				background-image: -webkit-linear-gradient(top, #0000FF , #FFFFFF);
 				background-image: -ms-linear-gradient(top, 	#FFFFFF , #FFFFFF);
 				background-image: linear-gradient(top, 	#FFFFFF, #FFFFFF);
 				background-color: #FFFFFF;
