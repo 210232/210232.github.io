@@ -1264,10 +1264,10 @@
 		/* Header */
 
 			#header-wrapper {
-				background-image: -moz-linear-gradient(top, #FFFF00, #0000FF);
-				background-image: -webkit-linear-gradient(top, #FFA500 , #0000FF);
-				background-image: -ms-linear-gradient(top, 	#FF0000 , #000000);
-				background-image: linear-gradient(top, 	#00FF00, #FFFFFF);
+				background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+				background-image: -webkit-linear-gradient(top, #FFFFFF , #FFFFFF);
+				background-image: -ms-linear-gradient(top, 	#FFFFFF , #FFFFFF);
+				background-image: linear-gradient(top, 	#FFFFFF, #FFFFFF);
 				background-color: #FFFFFF;
 			}
 
