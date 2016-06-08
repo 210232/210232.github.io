@@ -1,0 +1,314 @@
+body {
+
+	background-image: url("http://img12.deviantart.net/44c9/i/2004/272/f/b/moon_explosion_by_melonhead118.jpg");
+    background-size: cover;
+    background-position: center center;
+	font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color: #fff;
+    font-size: 8em;
+    font-family:minecraft;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+.button {
+	border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    font-family: minecraft;
+    text-decoration: none;
+    background-color: #FF0000;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #FF0000;
+  }
+
+  #again{
+    height: 100px;
+    width: 400px;
+    border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    font-family: minecraft;
+    text-decoration: none;
+    background-color: #FF0000;
+    box-shadow: 15px 15px 80px #555;
+    position: absolute;
+    top:400px;
+    left:460px;
+  }
+  a#again:hover {
+    background-color: #383838;
+    color: #FF0000;
+  }
+
+
+/*Stuff below governs the Explore screen*/
+
+#sprite1{
+    background-image: url("img/henry.gif");
+    position: absolute;
+    top:630px;
+    left:600px;
+    z-index: 1;
+    height: 30px;
+    width: 25px;
+}
+
+#sprite2{ 
+    position: absolute;
+    top:100px;
+    left:1100px;
+}
+
+#exploreBody {
+	background-image: url("http://il6.picdn.net/shutterstock/videos/12981236/thumb/1.jpg");
+	background-position: bottom center;
+    background-size: 1250px 700px;
+
+}
+
+.asteroid{
+background-image: url("img/rock.png");
+    height: 50px;
+    width: 50px;
+}
+.asteroid2{
+background-image: url("img/rock.png");
+    height: 50px;
+    width: 50px;
+}
+.asteroid3{
+background-image: url("img/rock.png");
+    height: 50px;
+    width: 100px;
+}
+
+#sprite3{
+    position: absolute;
+    top:100px;
+    left:700px;
+}
+
+#sprite4{
+    position: absolute;
+    top:100px;
+    left:800px;
+}
+
+#sprite5{
+    position: absolute;
+    top:100px;
+    left:900px;
+}
+
+#sprite6{
+    position: absolute;
+    top:100px;
+    left:600px;
+}
+
+#sprite7{
+    position: absolute;
+    top:100px;
+    left:500px;
+}
+
+#sprite8{
+    position: absolute;
+    top:100px;
+    left:50px;
+}
+
+#sprite9{
+    position: absolute;
+    top:100px;
+    left:200px;
+}
+
+#sprite10{
+    position: absolute;
+    top:100px;
+    left:300px;
+}
+
+#sprite11{
+    position: absolute;
+    top:100px;
+    left:1000px;
+}
+
+#sprite12{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+
+#sprite13{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+#sprite14{
+    position: absolute;
+    top:100px;
+    left:700px;
+}
+
+#sprite15{
+    position: absolute;
+    top:100px;
+    left:800px;
+}
+
+#sprite16{
+    position: absolute;
+    top:100px;
+    left:900px;
+}
+
+#sprite17{
+    position: absolute;
+    top:100px;
+    left:600px;
+}
+
+#sprite18{
+    position: absolute;
+    top:100px;
+    left:500px;
+}
+
+#sprite19{
+    position: absolute;
+    top:100px;
+    left:50px;
+}
+
+#sprite20{
+    position: absolute;
+    top:100px;
+    left:200px;
+}
+
+#sprite21{
+    position: absolute;
+    top:100px;
+    left:300px;
+}
+
+#sprite22{
+    position: absolute;
+    top:100px;
+    left:1000px;
+}
+
+#sprite23{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+
+#sprite24{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+#sprite25{ 
+    position: absolute;
+    top:100px;
+    left:1100px;
+}
+#sprite26{ 
+    position: absolute;
+    top:100px;
+    left:1100px;
+}
+#sprite27{
+    position: absolute;
+    top:100px;
+    left:700px;
+}
+
+#sprite28{
+    position: absolute;
+    top:100px;
+    left:800px;
+}
+
+#sprite29{
+    position: absolute;
+    top:100px;
+    left:900px;
+}
+
+#sprite30{
+    position: absolute;
+    top:100px;
+    left:600px;
+}
+
+#sprite31{
+    position: absolute;
+    top:100px;
+    left:500px;
+}
+
+#sprite32{
+    position: absolute;
+    top:100px;
+    left:50px;
+}
+
+#sprite33{
+    position: absolute;
+    top:100px;
+    left:200px;
+}
+
+#sprite34{
+    position: absolute;
+    top:100px;
+    left:300px;
+}
+
+#sprite35{
+    position: absolute;
+    top:100px;
+    left:1000px;
+}
+
+#sprite36{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+#sprite37{
+    position: absolute;
+    top:100px;
+    left:400px;
+}
+#spawner{
+    height: 25px;
+    width: 1500px;
+    background-color:green; 
+    position: absolute;
+    top: 700px;
+    left:0px;
+}
+
+
