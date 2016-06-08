@@ -67,7 +67,6 @@ function collision($div1, $div2) {
         $(".asteroid").hide();
         $("#exploreBody").css("background-image", "url(https://i.ytimg.com/vi/vJaAy3jmEx8/maxresdefault.jpg)")
         $("#again").show();
-        $("#spawner").hide();
         $(asteroid2).hide();
         //all the actions that happen during a collision go here
 
@@ -165,7 +164,7 @@ function collision($div1, $div2) {
         $(".asteroid2").hide();
         $("#exploreBody").css("background-image", "url(https://i.ytimg.com/vi/vJaAy3jmEx8/maxresdefault.jpg)")
         $("#again").show();
-        $("#spawner").hide();
+
         //all the actions that happen during a collision go here
 
       }
@@ -201,9 +200,8 @@ function collision($div1, $div2) {
         $(asteroid2).hide;
         $("#exploreBody").css("background-image", "url(https://tcrf.net/images/6/6c/Tekken3NES_WinScreen.png)")
         $("#again").show();
-        $("#spawner").hide();
-    };
-    });
- });
+    };//end of this statement
+    });//end of function
+ });//end of window function
 });
 
